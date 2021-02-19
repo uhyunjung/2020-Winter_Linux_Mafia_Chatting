@@ -1,0 +1,15 @@
+{
+  "host_identifier": "-1069973914",
+  "predefines": {
+    "cpp_compiler": "g++",
+    "c_compiler": "g++",
+    "cpp_compiler_defines": {},
+    "cpp_user_defines": {},
+    "cpp_user_undefines": [],
+    "c_compiler_defines": {},
+    "c_user_defines": {},
+    "c_user_undefines": []
+  },
+  "target_sizes": {},
+  "supports_x86_64": true
+}
